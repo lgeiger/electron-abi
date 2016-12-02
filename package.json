@@ -1,0 +1,22 @@
+{
+  "name": "electron-abi",
+  "version": "1.0.0",
+  "description": "Extract Electron ABIs",
+  "bin": "list-abi.sh",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lgeiger/electron-abi.git"
+  },
+  "keywords": [
+    "electron",
+    "node_module_version",
+    "abi",
+    "node"
+  ],
+  "author": "Lukas Geiger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lgeiger/electron-abi/issues"
+  },
+  "homepage": "https://github.com/lgeiger/electron-abi#readme"
+}

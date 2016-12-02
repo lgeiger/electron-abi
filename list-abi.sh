@@ -7,3 +7,4 @@ cat versions.txt | while read version; do
   (echo -n "$version | "; ELECTRON_RUN_AS_NODE=1 $ELECTRON abi.js) >> README.md
   rm -rf node_modules/electron-prebuilt
 done
+cat README.md
