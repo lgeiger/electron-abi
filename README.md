@@ -1,5 +1,7 @@
 # Electron ABI
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/lgeiger/electron-abi.svg)](https://greenkeeper.io/)
+
 Generates a list of Electron ABIs:
 ```bash
 npm install electron-abi -g
